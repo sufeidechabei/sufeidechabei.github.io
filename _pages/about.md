@@ -17,7 +17,7 @@ Publications
 ======
 
 [Data Exfiltration Detection: A Learning Game](https://www.dropbox.com/s/ek7182imsp7s2xl/semester-project-report.pdf?dl=0)<br>
-<b> Hao Zhang, Giacomo Giuliari and Adrian Perrig</b><br>
+<b> Hao Zhang</b>, Giacomo Giuliari and Adrian Perrig<br>
 <i> Semester Project Report </i><br>
 
 [A Statistical Characterization of Attentions in Graph Neural Networks](https://rlgm.github.io/papers/62.pdf)<br>
