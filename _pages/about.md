@@ -20,13 +20,13 @@ Publications
 
 [A Statistical Characterization of Attentions in Graph Neural Networks](https://rlgm.github.io/papers/62.pdf)<br>
 Mufei Li, <b>Hao Zhang</b>, Xingjian Shi, Minjie Wang and Zheng Zhang <br>
-<i> ICLR(Representation Learning for Graph and Manifolds) </i>, 2019<br>
+<i> ICLR (Representation Learning for Graph and Manifolds) </i>, 2019<br>
 
 [Deep Graph Library: Towards Efficient and Scalable Deep Learning on Graphs](https://arxiv.org/abs/1909.01315v1)<br>
 Minjie Wang , Lingfan Yu , Da Zheng , Quan Gan , Yu Gai , Zihao Ye, Mufei Li, Jinjing Zhou, Qi
 Huang, Chao Ma , Ziyue Huang, Qipeng Guo, <b>Hao Zhang</b> , Haibin Lin , Junbo Zhao , Jinyang Li ,
 Alexander Smola and Zheng Zhang <br>
-<i> ICLR(Representation Learning for Graph and Manifolds) </i>, 2019<br>
+<i> ICLR (Representation Learning for Graph and Manifolds) </i>, 2019<br>
 
 [Mining Deep And-Or Object Structures via Cost-Sensitive Question-Answer-Based Active Annotations](https://arxiv.org/abs/1708.03911)<br>
 Quanshi Zhang, Yingnian Wu, <b>Hao Zhang</b>, Songchun Zhu <br>
