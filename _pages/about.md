@@ -9,8 +9,8 @@ redirect_from:
 ---
 My name is Hao Zhang. I'm an undergraduate research assistant working with [Prof.Adrian Perrig](https://netsec.ethz.ch/people/aperrig/) at ETH Zurich. Before I  worked with [Prof.Shyam Gollakota](https://homes.cs.washington.edu/~gshyam/) at University of Washionton. I have also spend sometime at National University of Singapore and Amazon AI. My research focuses on serveral areas.
 
-. Building real-time and theoretically-sound sensing and human-device interaction systems on wearable devices.
-. Wireless sensing and IoT security.
+1. Building real-time and theoretically-sound sensing and human-device interaction systems on wearable devices.
+2. Wireless sensing and IoT security.
 
 Publications
 ======
