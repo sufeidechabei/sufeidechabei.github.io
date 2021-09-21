@@ -30,7 +30,7 @@ Alexander Smola and Zheng Zhang <br>
 
 [Mining Deep And-Or Object Structures via Cost-Sensitive Question-Answer-Based Active Annotations](https://arxiv.org/abs/1708.03911)<br>
 Quanshi Zhang, Yingnian Wu, <b>Hao Zhang</b>, Songchun Zhu <br>
-<i>Thirty-third Conference on Neural Information Processing Systems, 2019</i>. 
+<i>Computer Vision and Image Understanding</i>, 2018<br> 
 
 [Characterize and Transfer Attention in Graph Neural Networks](https://openreview.net/pdf?id=SkeBBJrFPH)<br>
 Mufei Li, <b>Hao Zhang</b>, Xingjian Shi, Minjie Wang, Yixing Guan and Zheng Zhang <br>
