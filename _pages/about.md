@@ -39,7 +39,7 @@ Mufei Li, <b>Hao Zhang</b>, Xingjian Shi, Minjie Wang, Yixing Guan and Zheng Zha
 
 Opensource Projects
 ======
-(3) Deep Graph Library: <a class="github-button" href="https://github.com/dmlc/dgl" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star dmlc/dgl" on GitHub">Deep Graph Library</a>.
+(1) Deep Graph Library: <a class="github-button" href="https://github.com/dmlc/dgl" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star dmlc/dgl" on GitHub">Deep Graph Library</a>.
 
 
 
