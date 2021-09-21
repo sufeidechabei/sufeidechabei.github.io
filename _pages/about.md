@@ -15,8 +15,8 @@ My name is Hao Zhang. I'm now working with as an undergraduate research assistan
 Publications
 ======
 
-[Data Exfiltration Detection: A Learning Game](https://www.dropbox.com/s/ek7182imsp7s2xl/semester-project-report.pdf?dl=0)
-<b>Hao Zhang, Giacomo Giuliari and Adrian Perrig</b>
+[Data Exfiltration Detection: A Learning Game](https://www.dropbox.com/s/ek7182imsp7s2xl/semester-project-report.pdf?dl=0)<br>
+<b>Hao Zhang, Giacomo Giuliari and Adrian Perrig</b><br>
 
 [A Statistical Characterization of Attentions in Graph Neural Networks](https://rlgm.github.io/papers/62.pdf)<br>
 Mufei Li, <b>Hao Zhang</b>, Xingjian Shi, Minjie Wang and Zheng Zhang <br>
