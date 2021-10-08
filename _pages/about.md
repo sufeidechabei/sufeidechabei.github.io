@@ -40,12 +40,18 @@ Quanshi Zhang, Yingnian Wu, <b>Hao Zhang</b>, Songchun Zhu <br>
 [Characterize and Transfer Attention in Graph Neural Networks](https://openreview.net/pdf?id=SkeBBJrFPH)<br>
 Mufei Li, <b>Hao Zhang</b>, Xingjian Shi, Minjie Wang, Yixing Guan and Zheng Zhang <br>
 
-Projects
+Open Source Projects
 ======
+I have contributed the following opensource projects at several years ago...
 
-(1) Deep Graph Library: <a class="github-button" href="https://github.com/dmlc/dgl" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star dmlc/dgl on GitHub">Deep Graph Library</a>. <br>
+* [Deep Graph Library](https://github.com/dmlc/dgl)
   
-(2) Gluon-CV: <a class="github-button" href="https://github.com/dmlc/gluon-cv" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star dmlc/gluon-cv on GitHub">Gluon-CV</a>. <br>
+* [Gluon-CV](https://github.com/dmlc/gluon-cv)
+
+Awards
+======
+<b>4th place</b> Neurips 2019 MineRL Competition.
+
 
 
 
