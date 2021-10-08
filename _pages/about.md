@@ -50,7 +50,7 @@ I have contributed the following opensource projects at several years ago...
 
 Awards
 ======
-<b>4th place</b> Neurips 2019 MineRL Competition.
+* <b>4th place</b> Neurips 2019 MineRL Competition.
 
 
 
