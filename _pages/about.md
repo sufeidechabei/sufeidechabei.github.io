@@ -42,7 +42,7 @@ Mufei Li, <b>Hao Zhang</b>, Xingjian Shi, Minjie Wang, Yixing Guan and Zheng Zha
 
 Open Source Projects
 ======
-I have contributed the following opensource projects at several years ago...
+I have contributed the following opensource projects  several years ago...
 
 * [Deep Graph Library](https://github.com/dmlc/dgl)
   
