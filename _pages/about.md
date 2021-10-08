@@ -13,6 +13,9 @@ My name is Hao Zhang. I'm an undergraduate research assistant working with [Prof
 
 2. Wireless sensing and IoT security.<br>
 
+I'm looking for PHD positions. This is my [resume](https://www.dropbox.com/s/akomkk3oqfhozxc/CV.pdf?dl=0)
+
+
 Publications
 ======
 
