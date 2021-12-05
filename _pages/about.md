@@ -18,7 +18,7 @@ I'm looking for PHD positions. This is my [resume](https://www.dropbox.com/s/zii
 
 Publications
 ======
-[Hybrid Neural Networks for On-device Directional Hearing]<br>
+Hybrid Neural Networks for On-device Directional Hearing<br>
 Anran Wang, Maruchi Kim, <b> Hao Zhang </b>, Shyam Gollakota<br>
 <i> AAAI-2022 </i><br>
 
