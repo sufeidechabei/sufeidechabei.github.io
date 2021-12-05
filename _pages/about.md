@@ -13,11 +13,14 @@ My name is Hao Zhang. I'm an undergraduate research assistant working with [Prof
 
 2. Wireless sensing and IoT security.<br>
 
-I'm looking for PHD positions. This is my [resume](https://www.dropbox.com/s/akomkk3oqfhozxc/CV.pdf?dl=0)
+I'm looking for PHD positions. This is my [resume](https://www.dropbox.com/s/ziifraekmjyardh/CV.pdf?dl=0)
 
 
 Publications
 ======
+[Hybrid Neural Networks for On-device Directional Hearing]<br>
+Anran Wang, Maruchi Kim, <b> Hao Zhang </b>, Shyam Gollakota<br>
+<i> AAAI-2022 </i><br>
 
 [Data Exfiltration Detection: A Learning Game](https://www.dropbox.com/s/ek7182imsp7s2xl/semester-project-report.pdf?dl=0)<br>
 <b> Hao Zhang</b>, Giacomo Giuliari and Adrian Perrig<br>
