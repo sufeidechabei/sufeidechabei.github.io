@@ -7,13 +7,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-My name is Hao Zhang. I'm a graduate student now. Before I was a undergraduate research asisstant working with [Prof.Adrian Perrig](https://netsec.ethz.ch/people/aperrig/) at ETH Zurich. Before I  worked with [Prof.Shyam Gollakota](https://homes.cs.washington.edu/~gshyam/) at University of Washington. I have also spend sometime at National University of Singapore and Amazon AI. My research focuses on:
+My name is Hao Zhang. I'm a incoming CS PHD student at UW-Madison. Before I was a undergraduate research asisstant working with [Prof.Adrian Perrig](https://netsec.ethz.ch/people/aperrig/) at ETH Zurich. Before I  worked with [Prof.Shyam Gollakota](https://homes.cs.washington.edu/~gshyam/) at University of Washington. I have also spend sometime at National University of Singapore and Amazon AI. My research focuses on:
 
 1. Building real-time and theoretically-sound sensing and human-device interaction systems on wearable devices.<br>
 
 2. Wireless sensing and IoT security.<br>
 
-I'm looking for PHD positions. This is my [resume](https://www.dropbox.com/s/ziifraekmjyardh/CV.pdf?dl=0) and my [statement](https://www.dropbox.com/s/xcix3hy4gjldrib/Statement_of_Purpose_Extend%20%281%29.pdf?dl=0).
+This is my [resume](https://www.dropbox.com/s/ziifraekmjyardh/CV.pdf?dl=0) and my [statement](https://www.dropbox.com/s/xcix3hy4gjldrib/Statement_of_Purpose_Extend%20%281%29.pdf?dl=0).
 
 
 Publications
