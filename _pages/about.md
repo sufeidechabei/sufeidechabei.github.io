@@ -39,6 +39,13 @@ Quanshi Zhang, Yingnian Wu, <b>Hao Zhang</b>, Songchun Zhu <br>
 [Characterize and Transfer Attention in Graph Neural Networks](https://openreview.net/pdf?id=SkeBBJrFPH)<br>
 Mufei Li, <b>Hao Zhang</b>, Xingjian Shi, Minjie Wang, Yixing Guan and Zheng Zhang <br>
 
+[Characterize and Transfer Attention in Graph Neural Networks](https://openreview.net/pdf?id=SkeBBJrFPH)<br>
+Mufei Li, <b>Hao Zhang</b>, Xingjian Shi, Minjie Wang, Yixing Guan and Zheng Zhang <br>
+
+
+[Data Exfiltration Detection: A Learning Game] 
+<b>Hao Zhang</b>, Giacomo Giuliari, Adrian Perrig <br>
+
 Open Source Projects
 ======
 I have contributed the following opensource projects  several years ago...
