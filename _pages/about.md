@@ -11,9 +11,7 @@ My name is Hao Zhang. I'm a incoming CS PHD student at UW-Madison. Before I was 
 
 1. Building real-time and theoretically-sound sensing and human-device interaction systems on wearable devices.<br>
 
-2. Wireless sensing and IoT security.<br>
-
-This is my [resume](https://www.dropbox.com/s/ziifraekmjyardh/CV.pdf?dl=0) and my [statement](https://www.dropbox.com/s/xcix3hy4gjldrib/Statement_of_Purpose_Extend%20%281%29.pdf?dl=0).
+2. Wireless sensing.
 
 
 Publications
