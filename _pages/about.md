@@ -7,13 +7,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-My name is Hao Zhang. I'm an incoming CS PHD student at UW-Madison. Before I was an undergraduate research asisstant working with [Prof.Adrian Perrig](https://netsec.ethz.ch/people/aperrig/) at ETH Zurich. I have also worked with [Prof.Shyam Gollakota](https://homes.cs.washington.edu/~gshyam/) at University of Washington and spent sometime doing research at National University of Singapore and Amazon AI. My research focuses on:
+I’m Hao Zhang. I am currently pursuing my PhD in Computer Science as a second-year student at the University of Wisconsin-Madison. Previously, I collaborated with [Prof. Adrian Perrig](https://netsec.ethz.ch/people/aperrig/) at ETH Zurich as a research staff. My academic journey also includes valuable research experiences with [Prof. Shyam Gollakota](https://homes.cs.washington.edu/~gshyam/) at the Paul G. Allen School of Computer Science & Engineering, University of Washington. Additionally, I have contributed to research projects at the National University of Singapore and Amazon AI. My research interests include:
 
-1. Building real-time and theoretically-sound sensing and human-device interaction systems on wearable devices.<br>
+1. LLM for tiny devices.<br>
 
 2. Wireless sensing.
 
-Here is my [resume](https://www.dropbox.com/home?preview=CV.pdf) and [research statement](https://www.dropbox.com/home?preview=Statement_of_Purpose_Extend+(1).pdf).
+Here is my [resume](https://github.com/sufeidechabei/sufeidechabei.github.io/blob/master/files/CV.pdf) and [research statement](https://github.com/sufeidechabei/sufeidechabei.github.io/blob/master/files/Statement.pdf).
 
 Publications
 ======
@@ -46,7 +46,7 @@ Data Exfiltration Detection: A Learning Game <br>
 
 Open Source Projects
 ======
-I have contributed the following opensource projects  several years ago...
+I contributed to the following open-source projects several years ago.
 
 * [Deep Graph Library](https://github.com/dmlc/dgl)
   
