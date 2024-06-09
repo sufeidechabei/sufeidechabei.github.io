@@ -7,13 +7,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I’m Hao Zhang. I am currently pursuing my PhD in Computer Science as a second-year student at the University of Wisconsin-Madison. Previously, I collaborated with [Prof. Adrian Perrig](https://netsec.ethz.ch/people/aperrig/) at ETH Zurich as a research staff. My academic journey also includes valuable research experiences with [Prof. Shyam Gollakota](https://homes.cs.washington.edu/~gshyam/) at the Paul G. Allen School of Computer Science & Engineering, University of Washington. Additionally, I have contributed to research projects at the National University of Singapore and Amazon AI. My research interests include:
+I’m Hao Zhang. I am currently a second-year student PhD student in the Computer Science Department at the University of Wisconsin-Madison. Previously, I collaborated with [Prof. Adrian Perrig](https://netsec.ethz.ch/people/aperrig/) at ETH Zurich as a research staff. I have also worked with [Prof. Shyam Gollakota](https://homes.cs.washington.edu/~gshyam/) at the Paul G. Allen School of Computer Science & Engineering, University of Washington. Additionally, I have contributed to research projects at the National University of Singapore and Amazon AI. I also have some fucked up work experience for a few years.  My research interests include:
 
 1. LLM for tiny devices.<br>
 
 2. Wireless sensing.
 
-Here is my [resume](https://github.com/sufeidechabei/sufeidechabei.github.io/blob/master/files/CV.pdf) and [research statement](https://github.com/sufeidechabei/sufeidechabei.github.io/blob/master/files/Statement.pdf).
+Here is my [resume](https://github.com/sufeidechabei/sufeidechabei.github.io/blob/master/files/CV.pdf) and [research statement](https://github.com/sufeidechabei/sufeidechabei.github.io/blob/master/files/Statement.pdf), by the way, I will leave academia in the near future.
 
 Publications
 ======
