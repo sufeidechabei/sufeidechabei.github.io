@@ -13,7 +13,7 @@ I’m Hao Zhang, currently a Ph.D. student in the Computer Science Department at
 
 2. Wireless sensing.
 
-Here is my [resume](https://github.com/sufeidechabei/sufeidechabei.github.io/blob/master/files/CV.pdf) and [research statement](https://github.com/sufeidechabei/sufeidechabei.github.io/blob/master/files/Statement.pdf), by the way, I will leave academia in the near future.
+
 
 Research Work
 ======
