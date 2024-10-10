@@ -15,9 +15,14 @@ I’m Hao Zhang, currently a Ph.D. student in the Computer Science Department at
 
 Here is my [resume](https://github.com/sufeidechabei/sufeidechabei.github.io/blob/master/files/CV.pdf) and [research statement](https://github.com/sufeidechabei/sufeidechabei.github.io/blob/master/files/Statement.pdf), by the way, I will leave academia in the near future.
 
-Publications
+Research Work
 ======
-Hybrid Neural Networks for On-device Directional Hearing<br>
+
+[PalmBench: A Comprehensive Benchmark of Compressed Large Language Models on Mobile Platforms](https://arxiv.org/pdf/2410.05315)<br>
+Yilong Li, Jingyu Liu,<b> Hao Zhang </b>, M Badri Narayanan, Utkarsh Sharma, Shuai Zhang, Pan Hu, Yijing Zeng, Jayaram Raghuram, Suman Banerjee<br>
+
+
+[Hybrid Neural Networks for On-device Directional Hearing](https://homes.cs.washington.edu/~gshyam/Papers/hybridbeam.pdf)<br>
 Anran Wang, Maruchi Kim, <b> Hao Zhang </b>, Shyam Gollakota<br>
 <i> AAAI-2022 </i><br>
 
