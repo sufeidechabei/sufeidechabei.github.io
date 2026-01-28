@@ -17,6 +17,9 @@ I’m Hao Zhang, currently a Ph.D. student in the Computer Science Department at
 
 Research Work
 ======
+[Tiny but Mighty: A Software-Hardware Co-Design Approach for Efficient Multimodal Inference on Battery-Powered Small Devices](https://arxiv.org/abs/2510.05109)<br>
+Yilong Li, Shuai Zhang, Yijing Zeng, <b> Hao Zhang </b>, Xinmiao Xiong, Jingyu Liu, Pan Hu, Suman Banerjee<br>
+<i> ICLR-2026 </i><br>
 
 [PalmBench: A Comprehensive Benchmark of Compressed Large Language Models on Mobile Platforms](https://arxiv.org/pdf/2410.05315)<br>
 Yilong Li, Jingyu Liu,<b> Hao Zhang </b>, M Badri Narayanan, Utkarsh Sharma, Shuai Zhang, Pan Hu, Yijing Zeng, Jayaram Raghuram, Suman Banerjee<br>
@@ -26,7 +29,6 @@ Yilong Li, Jingyu Liu,<b> Hao Zhang </b>, M Badri Narayanan, Utkarsh Sharma, Shu
 [Hybrid Neural Networks for On-device Directional Hearing](https://homes.cs.washington.edu/~gshyam/Papers/hybridbeam.pdf)<br>
 Anran Wang, Maruchi Kim, <b> Hao Zhang </b>, Shyam Gollakota<br>
 <i> AAAI-2022 </i><br>
-
 
 
 [A Statistical Characterization of Attentions in Graph Neural Networks](https://rlgm.github.io/papers/62.pdf)<br>
@@ -43,12 +45,7 @@ Alexander Smola and Zheng Zhang <br>
 Quanshi Zhang, Yingnian Wu, <b>Hao Zhang</b>, Songchun Zhu <br>
 <i> Computer Vision and Image Understanding</i>, 2018<br> 
 
-[Characterize and Transfer Attention in Graph Neural Networks](https://openreview.net/pdf?id=SkeBBJrFPH)<br>
-Mufei Li, <b>Hao Zhang</b>, Xingjian Shi, Minjie Wang, Yixing Guan and Zheng Zhang <br>
 
-
-Data Exfiltration Detection: A Learning Game <br>
-<b>Hao Zhang</b>, Giacomo Giuliari, Adrian Perrig <br>
 
 Open Source Projects
 ======
