@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I’m Hao Zhang, currently a Ph.D. student in the Computer Science Department at the University of Wisconsin-Madison. I’m working on something I don’t know, but I want to know.
+I’m Hao Zhang, currently a Ph.D. student in the Computer Science Department at the University of Wisconsin-Madison. I’m working on something I don’t know.
 
 
 
