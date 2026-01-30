@@ -7,11 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I’m Hao Zhang, currently a Ph.D. student in the Computer Science Department at the University of Wisconsin-Madison. I have previously collaborated with [Prof. Adrian Perrig](https://netsec.ethz.ch/people/aperrig/)  at ETH Zurich as a research staff member and worked with  [Prof. Shyam Gollakota](https://homes.cs.washington.edu/~gshyam/) at the Paul G. Allen School of Computer Science & Engineering, University of Washington. I have also contributed to research projects at the National University of Singapore and Amazon AI. My research interests include:
+I’m Hao Zhang, currently a Ph.D. student in the Computer Science Department at the University of Wisconsin-Madison. I’m working on something I don’t know, but I want to know.
 
-1. LLM for tiny devices.<br>
-
-2. Wireless sensing.
 
 
 
@@ -49,7 +46,7 @@ Quanshi Zhang, Yingnian Wu, <b>Hao Zhang</b>, Songchun Zhu <br>
 
 Open Source Projects
 ======
-I contributed to the following open-source projects several years ago.
+I contributed to the following open-source projects many years ago.
 
 * [Deep Graph Library](https://github.com/dmlc/dgl)
   
